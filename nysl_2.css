@@ -1,0 +1,98 @@
+body{
+    font:20px/1,5 Arial, Helvetica,sans-serif;
+    margin: 0;
+    padding:0;
+    background-color: gainsboro;
+    
+}
+
+.branding h1{
+    color: black;
+    margin: 0;
+    padding: 40px;
+    background-color: crimson;
+    
+}
+
+ header {
+    margin: 0;
+    padding: 0;
+    color: crimson;
+    
+}
+
+
+
+h1{
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+nav{
+    color: aquamarine;
+    background-color: navy;
+    background: url(Pictures-NYSL/Updated-Banner-Photo.jpeg);
+    background-repeat: no-repeat;
+    margin-left: 260px;
+    margin-right: 260px;
+    width: 100%;
+    height: 450px;
+    
+    
+}
+
+.navig{
+        -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+}
+
+
+.nysll{
+    height: 200px;
+    float: left;
+    width: 20%;
+    width: 200px;
+    
+}
+
+h2{
+    
+}
+h3{
+    
+}
+
+h4{
+    
+}
+.email{
+    
+}
+
+h5{
+    
+}
+
+p{
+    
+}
+
+section{
+    float: right;
+    width: 80%;
+    
+}
+
+.label{
+    margin: 10px;
+    padding-left: 10px;
+}
+
+
+
+
+
+

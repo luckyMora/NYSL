@@ -1,0 +1,26 @@
+body{
+    font: 15px/1.5 Arial, helvetica;
+    background-color: gainsboro;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: grid;
+    grid-template-areas:
+        "header1 header2 header3 header4"
+        "2header 2header2 2header3 2header4"
+        "left text1 text2 right"
+        "footer1 footer2 footer3 footer4";
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
